@@ -13,5 +13,5 @@ Experiment on Khmer input method using roman script (writing by phonetic).
 
 # License
 
-Copyright @2014, Darong Mean. MIT License.
+Copyright @2014, Darong Mean. EPL License.
 
