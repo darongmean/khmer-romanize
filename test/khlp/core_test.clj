@@ -1,7 +1,7 @@
 (ns khlp.core-test
-  (:require [clojure.test :refer :all]
-            [khlp.core :refer :all]))
+  (:require [khlp.core :refer :all])
+  (:use midje.sweet))
 
-(deftest a-test
-  (testing "HELP ME! I PASSED."
-    (is (= 0 0))))
+
+(fact "HELP Me! I passed"
+       0 => 0)
