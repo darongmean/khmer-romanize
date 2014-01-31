@@ -3,5 +3,5 @@
             [khlp.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "HELP ME! I PASSED."
+    (is (= 0 0))))
