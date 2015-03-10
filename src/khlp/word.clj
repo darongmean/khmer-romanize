@@ -58,3 +58,6 @@
    Only inserts, removals, and substitutions are considered; No transposing two characters."
   [word1 word2]
   (levenshtein-recur0 word1 (count word1) word2 (count word2)))
+
+(defn romanize [chars]
+  chars)
