@@ -1,4 +1,4 @@
-khmer-romanize [![Build Status](https://travis-ci.org/darong-m/khmer-romanize.png?branch=master)](https://travis-ci.org/darong-m/khmer-romanize)
+khmer-romanize [![Build Status](https://travis-ci.org/dmean/khmer-romanize.png?branch=master)](https://travis-ci.org/dmean/khmer-romanize)
 ==============
 
 Experiment on Khmer input method using roman script (writing by phonetic).
